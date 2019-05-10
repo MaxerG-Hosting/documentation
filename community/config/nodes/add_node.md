@@ -17,7 +17,7 @@ top right side to open the page to add a node.
 * **Location**: the location you have the node in. These are configured in the 'Locations' section of the panel and one
 must be created before a node can be created. These simply act as categories for Nodes and serve no other purpose at
 this time.
-* **FQDN**: the fully qualified domain name for the node — for example: `node.demon.pterodactyl.io`
+* **FQDN**: the fully qualified domain name for the node — for example: `node.daemon.pterodactyl.io`
 * **Communicate over SSL**: if the panel is using SSL the Daemon is required to use SSL as well.
 * **Behind Proxy**: if you have the daemon behind a proxy that terminates SSL connections before arriving at the daemon
 then this option should be selected. If none of that sentence made sense, this doesn't effect you.
